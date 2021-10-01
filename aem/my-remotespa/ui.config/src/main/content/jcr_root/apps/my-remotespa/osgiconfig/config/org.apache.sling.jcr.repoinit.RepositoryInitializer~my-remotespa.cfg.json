@@ -1,0 +1,10 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/my-remotespa",
+        "create path (nt:unstructured) /content/dam/my-remotespa/jcr:content",
+        "set properties on /content/dam/my-remotespa/jcr:content",
+        "set cq:conf{String} to /conf/my-remotespa",
+        "set jcr:title{String} to \"MyRemoteSPA\"",
+        "end"
+    ]
+}
