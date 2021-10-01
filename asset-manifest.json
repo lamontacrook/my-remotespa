@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/my-remotespa/static/css/main.a617e044.chunk.css",
-    "main.js": "/my-remotespa/static/js/main.bf780c00.chunk.js",
-    "main.js.map": "/my-remotespa/static/js/main.bf780c00.chunk.js.map",
+    "main.js": "/my-remotespa/static/js/main.73cd6887.chunk.js",
+    "main.js.map": "/my-remotespa/static/js/main.73cd6887.chunk.js.map",
     "runtime-main.js": "/my-remotespa/static/js/runtime-main.2a31be85.js",
     "runtime-main.js.map": "/my-remotespa/static/js/runtime-main.2a31be85.js.map",
-    "static/js/2.ad4029df.chunk.js": "/my-remotespa/static/js/2.ad4029df.chunk.js",
-    "static/js/2.ad4029df.chunk.js.map": "/my-remotespa/static/js/2.ad4029df.chunk.js.map",
+    "static/js/2.0930a00d.chunk.js": "/my-remotespa/static/js/2.0930a00d.chunk.js",
+    "static/js/2.0930a00d.chunk.js.map": "/my-remotespa/static/js/2.0930a00d.chunk.js.map",
     "static/js/3.ce9628ca.chunk.js": "/my-remotespa/static/js/3.ce9628ca.chunk.js",
     "static/js/3.ce9628ca.chunk.js.map": "/my-remotespa/static/js/3.ce9628ca.chunk.js.map",
     "index.html": "/my-remotespa/index.html",
     "static/css/main.a617e044.chunk.css.map": "/my-remotespa/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.ad4029df.chunk.js.LICENSE.txt": "/my-remotespa/static/js/2.ad4029df.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my-remotespa/static/media/logo.6ce24c58.svg"
+    "static/js/2.0930a00d.chunk.js.LICENSE.txt": "/my-remotespa/static/js/2.0930a00d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2a31be85.js",
-    "static/js/2.ad4029df.chunk.js",
+    "static/js/2.0930a00d.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.bf780c00.chunk.js"
+    "static/js/main.73cd6887.chunk.js"
   ]
 }
