@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-remotespa/static/css/main.a617e044.chunk.css",
-    "main.js": "/my-remotespa/static/js/main.75a57311.chunk.js",
-    "main.js.map": "/my-remotespa/static/js/main.75a57311.chunk.js.map",
+    "main.js": "/my-remotespa/static/js/main.f2fe0efa.chunk.js",
+    "main.js.map": "/my-remotespa/static/js/main.f2fe0efa.chunk.js.map",
     "runtime-main.js": "/my-remotespa/static/js/runtime-main.2a31be85.js",
     "runtime-main.js.map": "/my-remotespa/static/js/runtime-main.2a31be85.js.map",
     "static/js/2.0930a00d.chunk.js": "/my-remotespa/static/js/2.0930a00d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2a31be85.js",
     "static/js/2.0930a00d.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.75a57311.chunk.js"
+    "static/js/main.f2fe0efa.chunk.js"
   ]
 }
